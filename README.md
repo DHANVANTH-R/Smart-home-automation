@@ -1,1 +1,2 @@
 # Smart-home-automation
+The home appliances can be remotely controlled using an application by ensuring a connection with the server, this model is also integrated with a home survillence code which sends an alert message with 10 seconds video captured using the camera when a person is detected in the pir sensor. This also comes along with an automatic smart gardening system which waters the plant based on the moisture level of the soil.
